@@ -1,11 +1,8 @@
 fileFormatVersion: 2
-guid: 429aba38d4f0bed4894c0ded732511ff
+guid: 1c9702720103ce442a8bd6ba9a231a74
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: 6485908543900083908
-    second: Space_Hurt_Suit
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 1
